@@ -5,4 +5,5 @@ end
 
 def eur_to_usd(eur) 
   usd = euro/.86
+  return usd
 end 
